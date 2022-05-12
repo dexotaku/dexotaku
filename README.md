@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dexotaku
 - 👀 I’m interested in basic usage testing to begin with, I can probably learn to be more useful.
-- 🌱 I’m currently relearning how to be useful in assisting other devs.
+- 🌱 I’m currently relearning how to be useful in assisting other devs. I haven't really programmed anything in 2 decades but I am generally an advanced user.
 - 💞️ I’m looking to collaborate on projects like WT.Social.
 - 📫 I am easily found pretty much everywhere as dexotaku / dex otaku
 
